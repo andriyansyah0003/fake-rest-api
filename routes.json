@@ -1,0 +1,5 @@
+{
+    "/api/account": "/account",
+    "/:resource/:id/show": "/:resource/:id",
+    "/toDoList\\?id=:id": "/toDoList/:id"
+}

@@ -1,0 +1,57 @@
+{
+  "account": [
+    {
+      "id": 1,
+      "owner": "fanyansen"
+    },
+    {
+      "id": 2,
+      "owner": "andriyansyah"
+    },
+    {
+      "id": 3,
+      "owner": "dimas"
+    },
+    {
+      "owner": "Joko",
+      "id": 6
+    }
+  ],
+  "toDoList": [
+    {
+      "id": 1,
+      "list": "Bermain ke pantai",
+      "accountId": 1
+    },
+    {
+      "id": 2,
+      "list": "Mengumpulkan Tugas kuliah",
+      "accountId": 1
+    },
+    {
+      "id": 3,
+      "list": "Mengerjakan Tugas kuliah",
+      "accountId": 2
+    },
+    {
+      "id": 4,
+      "list": "Mengerjakan Tugas kuliah",
+      "accountId": 3
+    },
+    {
+      "id": 5,
+      "list": "Mengerjakan Tugas kuliah",
+      "accountId": 4
+    },
+    {
+      "id": 5,
+      "list": "Mengerjakan Tugas kuliah",
+      "accountId": 4
+    },
+    {
+      "list": "Belajar method post",
+      "accountId": 3,
+      "id": 6
+    }
+  ]
+}

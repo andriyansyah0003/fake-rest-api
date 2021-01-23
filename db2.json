@@ -1,0 +1,51 @@
+{
+  "ktp": [
+    {
+      "id": 1,
+      "noKtp": 12,
+      "nama": "Andriyan"
+    },
+    {
+      "id": 2,
+      "noKtp": 34,
+      "nama": "Dion"
+    },
+    {
+      "id": 3,
+      "noKtp": 56,
+      "nama": "Joko"
+    },
+    {
+      "id": 4,
+      "noKtp": 78,
+      "nama": "Yansen"
+    },
+    {
+      "noKtp": 90,
+      "nama": "Dimas",
+      "id": 5
+    }
+  ],
+  "address": [
+    {
+      "id": 1,
+      "address": "Jawa",
+      "ktpId": 1
+    },
+    {
+      "id": 2,
+      "address": "JAKARTA",
+      "ktpId": 2
+    },
+    {
+      "id": 3,
+      "address": "JAKARTA",
+      "ktpId": 3
+    },
+    {
+      "address": "JAWA TENGAH",
+      "ktpId": 4,
+      "id": 4
+    }
+  ]
+}

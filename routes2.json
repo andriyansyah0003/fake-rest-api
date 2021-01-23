@@ -1,0 +1,5 @@
+{
+    "/api/ktp": "/ktp",
+    "/:resource/:id/show": "/:resource/:id",
+    "/address\\?id=:id": "/address/:id"
+}
